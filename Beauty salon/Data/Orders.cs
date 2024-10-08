@@ -10,6 +10,7 @@ namespace Beauty_salon.Data
 {
     internal class Orders
     {
+        [Key]
         public int OrderId { get; set; }
 
         [ForeignKey("Client")]
