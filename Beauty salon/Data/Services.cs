@@ -10,6 +10,7 @@ namespace Beauty_salon.Data
 {
     internal class Services
     {
+        [Key]
         public int ServiceId { get; set; }
 
         // Наименование услуги
