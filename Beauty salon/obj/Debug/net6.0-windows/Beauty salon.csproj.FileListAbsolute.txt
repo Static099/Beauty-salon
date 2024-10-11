@@ -54,3 +54,61 @@ C:\Users\Lenovo\OneDrive\Desktop\Beauty-salon-master\Beauty salon\obj\Debug\net6
 C:\Users\Lenovo\OneDrive\Desktop\Beauty-salon-master\Beauty salon\obj\Debug\net6.0-windows\Beauty salon.pdb
 C:\Users\Lenovo\OneDrive\Desktop\Beauty-salon-master\Beauty salon\obj\Debug\net6.0-windows\Beauty salon.genruntimeconfig.cache
 C:\Users\Lenovo\OneDrive\Desktop\Beauty-salon-master\Beauty salon\obj\Debug\net6.0-windows\ref\Beauty salon.dll
+D:\project\Beauty salon\bin\Debug\net6.0-windows\Beauty salon.exe
+D:\project\Beauty salon\bin\Debug\net6.0-windows\Beauty salon.deps.json
+D:\project\Beauty salon\bin\Debug\net6.0-windows\Beauty salon.runtimeconfig.json
+D:\project\Beauty salon\bin\Debug\net6.0-windows\Beauty salon.dll
+D:\project\Beauty salon\bin\Debug\net6.0-windows\Beauty salon.pdb
+D:\project\Beauty salon\bin\Debug\net6.0-windows\Humanizer.dll
+D:\project\Beauty salon\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\project\Beauty salon\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\project\Beauty salon\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\project\Beauty salon\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\project\Beauty salon\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\project\Beauty salon\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\project\Beauty salon\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\project\Beauty salon\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\project\Beauty salon\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\project\Beauty salon\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\project\Beauty salon\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\project\Beauty salon\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\project\Beauty salon\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\project\Beauty salon\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\project\Beauty salon\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\project\Beauty salon\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\project\Beauty salon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\project\Beauty salon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\project\Beauty salon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\project\Beauty salon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\project\Beauty salon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\project\Beauty salon\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\project\Beauty salon\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\project\Beauty salon\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\project\Beauty salon\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\project\Beauty salon\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\project\Beauty salon\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\project\Beauty salon\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\project\Beauty salon\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\project\Beauty salon\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\project\Beauty salon\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\project\Beauty salon\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\project\Beauty salon\obj\Debug\net6.0-windows\Beauty salon.csproj.AssemblyReference.cache
+D:\project\Beauty salon\obj\Debug\net6.0-windows\Beauty_salon.Form1.resources
+D:\project\Beauty salon\obj\Debug\net6.0-windows\Beauty_salon.Form2.resources
+D:\project\Beauty salon\obj\Debug\net6.0-windows\Beauty_salon.Form3.resources
+D:\project\Beauty salon\obj\Debug\net6.0-windows\Beauty_salon.Form4.resources
+D:\project\Beauty salon\obj\Debug\net6.0-windows\Beauty_salon.Form5.resources
+D:\project\Beauty salon\obj\Debug\net6.0-windows\Beauty_salon.Properties.Resources.resources
+D:\project\Beauty salon\obj\Debug\net6.0-windows\Beauty salon.csproj.GenerateResource.cache
+D:\project\Beauty salon\obj\Debug\net6.0-windows\Beauty salon.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\Beauty salon\obj\Debug\net6.0-windows\Beauty salon.AssemblyInfoInputs.cache
+D:\project\Beauty salon\obj\Debug\net6.0-windows\Beauty salon.AssemblyInfo.cs
+D:\project\Beauty salon\obj\Debug\net6.0-windows\Beauty salon.csproj.CoreCompileInputs.cache
+D:\project\Beauty salon\obj\Debug\net6.0-windows\Beauty salon.sourcelink.json
+D:\project\Beauty salon\obj\Debug\net6.0-windows\Beauty s.6DECB7F6.Up2Date
+D:\project\Beauty salon\obj\Debug\net6.0-windows\Beauty salon.dll
+D:\project\Beauty salon\obj\Debug\net6.0-windows\refint\Beauty salon.dll
+D:\project\Beauty salon\obj\Debug\net6.0-windows\Beauty salon.pdb
+D:\project\Beauty salon\obj\Debug\net6.0-windows\Beauty salon.genruntimeconfig.cache
+D:\project\Beauty salon\obj\Debug\net6.0-windows\ref\Beauty salon.dll
+D:\project\Beauty salon\obj\Debug\net6.0-windows\Beauty_salon.Form6.resources
