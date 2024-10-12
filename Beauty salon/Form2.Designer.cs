@@ -28,94 +28,102 @@
         /// </summary>
         private void InitializeComponent()
         {
-            button1 = new Button();
-            button2 = new Button();
-            button3 = new Button();
-            button4 = new Button();
-            dataGridView1 = new DataGridView();
-            label1 = new Label();
-            ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
-            SuspendLayout();
+            this.button1 = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
+            this.button3 = new System.Windows.Forms.Button();
+            this.button4 = new System.Windows.Forms.Button();
+            this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.label1 = new System.Windows.Forms.Label();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            this.SuspendLayout();
             // 
             // button1
             // 
-            button1.Font = new Font("Agency FB", 12F, FontStyle.Regular, GraphicsUnit.Point);
-            button1.Location = new Point(700, 107);
-            button1.Name = "button1";
-            button1.Size = new Size(180, 63);
-            button1.TabIndex = 0;
-            button1.Text = "Добавить";
-            button1.UseVisualStyleBackColor = true;
+            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.button1.Location = new System.Drawing.Point(612, 80);
+            this.button1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(158, 47);
+            this.button1.TabIndex = 0;
+            this.button1.Text = "Добавить";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
-            button2.Font = new Font("Agency FB", 12F, FontStyle.Regular, GraphicsUnit.Point);
-            button2.Location = new Point(700, 204);
-            button2.Name = "button2";
-            button2.Size = new Size(180, 63);
-            button2.TabIndex = 1;
-            button2.Text = "Удалить";
-            button2.UseVisualStyleBackColor = true;
+            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.button2.Location = new System.Drawing.Point(612, 153);
+            this.button2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(158, 47);
+            this.button2.TabIndex = 1;
+            this.button2.Text = "Удалить";
+            this.button2.UseVisualStyleBackColor = true;
             // 
             // button3
             // 
-            button3.Font = new Font("Agency FB", 12F, FontStyle.Regular, GraphicsUnit.Point);
-            button3.Location = new Point(700, 305);
-            button3.Name = "button3";
-            button3.Size = new Size(180, 63);
-            button3.TabIndex = 2;
-            button3.Text = "Изменить";
-            button3.UseVisualStyleBackColor = true;
+            this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.button3.Location = new System.Drawing.Point(612, 229);
+            this.button3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(158, 47);
+            this.button3.TabIndex = 2;
+            this.button3.Text = "Изменить";
+            this.button3.UseVisualStyleBackColor = true;
             // 
             // button4
             // 
-            button4.Font = new Font("Agency FB", 12F, FontStyle.Regular, GraphicsUnit.Point);
-            button4.Location = new Point(700, 402);
-            button4.Name = "button4";
-            button4.Size = new Size(180, 63);
-            button4.TabIndex = 3;
-            button4.Text = "Отсортировать";
-            button4.UseVisualStyleBackColor = true;
+            this.button4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.button4.Location = new System.Drawing.Point(612, 302);
+            this.button4.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.button4.Name = "button4";
+            this.button4.Size = new System.Drawing.Size(158, 47);
+            this.button4.TabIndex = 3;
+            this.button4.Text = "Отсортировать";
+            this.button4.UseVisualStyleBackColor = true;
             // 
             // dataGridView1
             // 
-            dataGridView1.BackgroundColor = Color.Violet;
-            dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridView1.Location = new Point(142, 82);
-            dataGridView1.Name = "dataGridView1";
-            dataGridView1.RowHeadersWidth = 51;
-            dataGridView1.RowTemplate.Height = 29;
-            dataGridView1.Size = new Size(489, 435);
-            dataGridView1.TabIndex = 4;
+            this.dataGridView1.BackgroundColor = System.Drawing.Color.Violet;
+            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView1.Location = new System.Drawing.Point(124, 62);
+            this.dataGridView1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.dataGridView1.Name = "dataGridView1";
+            this.dataGridView1.RowHeadersWidth = 51;
+            this.dataGridView1.RowTemplate.Height = 29;
+            this.dataGridView1.Size = new System.Drawing.Size(428, 326);
+            this.dataGridView1.TabIndex = 4;
             // 
             // label1
             // 
-            label1.AutoSize = true;
-            label1.Font = new Font("Bahnschrift Condensed", 22.2F, FontStyle.Regular, GraphicsUnit.Point);
-            label1.ForeColor = Color.Indigo;
-            label1.Location = new Point(142, 24);
-            label1.Name = "label1";
-            label1.Size = new Size(126, 45);
-            label1.TabIndex = 5;
-            label1.Text = "Клиенты";
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Bahnschrift Condensed", 22.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.label1.ForeColor = System.Drawing.Color.Indigo;
+            this.label1.Location = new System.Drawing.Point(124, 18);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(101, 36);
+            this.label1.TabIndex = 5;
+            this.label1.Text = "Клиенты";
             // 
             // Form2
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
-            AutoScaleMode = AutoScaleMode.Font;
-            BackColor = Color.MediumOrchid;
-            ClientSize = new Size(1051, 567);
-            Controls.Add(label1);
-            Controls.Add(dataGridView1);
-            Controls.Add(button4);
-            Controls.Add(button3);
-            Controls.Add(button2);
-            Controls.Add(button1);
-            Name = "Form2";
-            Text = "Клиенты";
-            ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
-            ResumeLayout(false);
-            PerformLayout();
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.MediumOrchid;
+            this.ClientSize = new System.Drawing.Size(920, 425);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.dataGridView1);
+            this.Controls.Add(this.button4);
+            this.Controls.Add(this.button3);
+            this.Controls.Add(this.button2);
+            this.Controls.Add(this.button1);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.Name = "Form2";
+            this.Text = "Клиенты";
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
         }
 
         #endregion
